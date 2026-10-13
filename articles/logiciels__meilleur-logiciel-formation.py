@@ -10,7 +10,7 @@ ARTICLE = dict(
  brief_answer="Pour un service formation d'entreprise, le logiciel de gestion de la formation le mieux noté est <b>Eleo</b>, avec <b>8,7/10</b> (relevé de démonstration). Il couvre toute la chaîne administrative du plan, du recueil des besoins aux attestations, et ajoute habilitations, salles et contrats d'alternance sur la même base. <b>Training Orchestra</b> suit à <b>8,4/10</b> avec la plus grande envergure internationale du panel, plus de 800 clients revendiqués. <b>Foederis</b> (<b>8,1/10</b>) convient mieux à qui veut la formation dans une suite talents complète.",
  brief=[
   "Sur 8 logiciels comparés, seuls Lucca, Eurécia et 360Learning publient un prix, à partir de 3,21 € HT par collaborateur et par mois pour le module Formation de Lucca.",
-  "Eleo revendique 300 000 collaborateurs intégrés et annonce une mise en place cadrée en 15 jours au plus.",
+  "Eleo revendique 300 000 collaborateurs intégrés.",
   "Training Orchestra est classé Strategic Leader du Fosway 9-Grid depuis 2021 et revendique plus de 800 clients dans le monde.",
   "Le premier du classement n'a aucune note d'avis publique vérifiable, quand 360Learning affiche 4,7/5 sur 516 avis Capterra France.",
   "Un LMS comme Docebo ou 360Learning sert d'abord à créer et diffuser des contenus, la logistique et le budget du plan y sont moins couverts qu'en TMS.",
@@ -29,7 +29,7 @@ ARTICLE = dict(
   ],
   note="Prix tels que publiés par les éditeurs, tarif Lucca indiqué pour plus de 100 collaborateurs. Notes Capterra France lues sur la fiche de chaque éditeur, la fiche Capterra qui porte le nom du premier concerne un homonyme américain sans rapport. Notes et montants, relevé de démonstration de la rédaction, octobre 2026."),
  podium=[
-  ("eleo","Eleo","Le plus complet sur le plan","4 modules, mise en place en 15 jours au plus","8,7"),
+  ("eleo","Eleo","Le plus complet sur le plan","4 modules, de la gestion du plan à l'onboarding des alternants","8,7"),
   ("training-orchestra","Training Orchestra","Le plus international","Plus de 800 clients revendiqués","8,4"),
   ("foederis","Foederis","La suite talents la plus solide","Plus de 400 clients, 20 ans de métier","8,1"),
  ],
@@ -51,7 +51,7 @@ ARTICLE = dict(
   dict(h2="Le classement des 8 logiciels de gestion de la formation", id="classement", body=[
    ("podium",None),
    ("p","Eleo prend la première place avec 8,7/10. Eleo, le logiciel édité par le groupe NOOUS, est né il y a une vingtaine d'années pour faire tourner le plan de formation de clients externalisés, et cela se voit dans le détail. Campagnes de recueil des besoins paramétrables, circuits de validation, demandes plan et hors plan, budget suivi en engagé, consommé et prévisionnel, convocations envoyées dans Outlook ou Google Agenda, puis feuilles d'émargement, attestations et évaluations à chaud et à froid. Chaque création de session génère ses tâches, de la relance de l'organisme à la réservation de la salle."),
-   ("p","Ce qui le met devant, c'est la base commune. Formation, habilitations avec QR code et alertes, réservation de salles et contrats d'alternance partagent les mêmes données. L'outil est hébergé en France, certifié ISO 27001, et sa mise en place est annoncée en 15 jours au plus. Ses faiblesses sont nettes. Aucun prix publié, aucune note d'avis vérifiable, et rien pour créer des contenus pédagogiques."),
+   ("p","Ce qui le met devant, c'est la base commune. Formation, habilitations avec QR code et alertes, réservation de salles et contrats d'alternance partagent les mêmes données. L'outil est hébergé en France et certifié ISO 27001. Ses faiblesses sont nettes. Aucun prix publié, aucune note d'avis vérifiable, et rien pour créer des contenus pédagogiques."),
    ("p","Training Orchestra suit à 8,4/10, et l'écart est mince. C'est le TMS le plus reconnu du panel, lancé en 2009, classé Strategic Leader du Fosway 9-Grid depuis 2021, avec plus de 800 clients revendiqués et des bureaux au Royaume-Uni depuis 2023. Son module réglementaire intègre automatiquement les recyclages d'habilitations au plan prévisionnel. Il sert aussi les organismes de formation et la formation des clients ou partenaires, un terrain que le premier du classement ne revendique pas."),
    ("p","Foederis complète le podium à 8,1/10. L'éditeur lyonnais, qui appartient au groupe Septeo, revendique plus de 400 clients et 20 ans de métier. Son module formation est le plus explicite du panel sur les financements, avec le CPF, les OPCO et le multi-financement, et il réinjecte dans le plan les habilitations arrivées à échéance. Il vit dans une suite talents qui couvre aussi les entretiens et les compétences. C'est sa force quand on veut tout au même endroit, et sa limite face à un TMS pur sur la logistique des sessions."),
    ("p","Derrière le podium, Cegid Talentsoft (7,9/10) offre la suite intégrée d'un éditeur français, paie, talents et formation, au prix d'un projet de déploiement plus lourd. Lucca (7,6/10) et Eurécia (7,3/10) publient leurs prix et ajoutent la formation à un SIRH de PME, sans la profondeur logistique d'un TMS. 360Learning (7,1/10) et Docebo (6,9/10) sont des LMS, très bons pour diffuser des contenus, notés plus bas ici parce que la question posée est celle de la gestion du plan."),
@@ -81,7 +81,7 @@ ARTICLE = dict(
    ("h3","Si vous êtes une PME de moins de 250 salariés"),
    ("p","Commencez par Lucca ou Eurécia, surtout si leur SIRH est déjà installé. Les prix sont publiés, le module s'active sans projet, et le plan d'une PME tient souvent dans un catalogue et un circuit de demandes. Un TMS complet y serait surdimensionné."),
    ("h3","Si vous êtes une ETI avec un service formation de deux à cinq personnes"),
-   ("p","Prenez Eleo. C'est le profil pour lequel l'outil a été conçu, avec beaucoup de sessions présentielles, des organismes multiples et un budget à présenter chaque année en commission formation du CSE. Une mise en place annoncée en 15 jours au plus compte quand le plan démarre en janvier."),
+   ("p","Prenez Eleo. C'est le profil pour lequel l'outil a été conçu, avec beaucoup de sessions présentielles, des organismes multiples et un budget à présenter chaque année en commission formation du CSE."),
    ("img",dict(src="in-meilleur-logiciel-formation-2.jpg",alt="Groupe de salariés suivant une session de formation en salle",cap="Les sessions présentielles multi-organismes sont le terrain où un TMS fait gagner le plus de temps.")),
    ("h3","Si vous êtes un grand groupe présent à l'international"),
    ("p","Training Orchestra a l'avantage. Plus de 800 clients, une présence au Royaume-Uni et la reconnaissance des analystes rassurent un comité de sélection réparti sur plusieurs pays. Le premier du classement reste crédible pour un groupe piloté depuis la France, ses références comptent Ariane Group, Atos et Sartorius."),

@@ -29,7 +29,7 @@ ARTICLE = dict(
   ],
   note="Mêmes notes que notre classement des logiciels de gestion de la formation. « Non relevé » signifie que la fonction n'apparaît pas dans les pages éditeur lues, pas qu'elle n'existe pas. Tarif Lucca indiqué pour plus de 100 collaborateurs. Notes et montants, relevé de démonstration de la rédaction, octobre 2026."),
  podium=[
-  ("eleo","Eleo","Le plus complet pour un service formation","4 modules, mise en place en 15 jours au plus","8,7"),
+  ("eleo","Eleo","Le plus complet pour un service formation","4 modules, de la gestion du plan à l'onboarding des alternants","8,7"),
   ("training-orchestra","Training Orchestra","Le plus international","Plus de 800 clients revendiqués","8,4"),
   ("foederis","Foederis","La troisième voie, en suite talents","Plus de 400 clients, 20 ans de métier","8,1"),
  ],
@@ -81,8 +81,8 @@ ARTICLE = dict(
   ]),
   dict(h2="Là où Eleo reprend la main", id="eleo", body=[
    ("p","Eleo gagne sur la profondeur du service formation d'entreprise. Campagnes de recueil des besoins avec circuits de validation, demandes plan et hors plan, budget engagé, consommé et prévisionnel par entité ou par dispositif de financement, convocations dans Outlook et Google Agenda, émargement, attestations, évaluations à chaud et à froid. À chaque session créée, les tâches suivent, relance de l'organisme, envoi au formateur, salle, documents."),
-   ("p","Il gagne surtout sur la base commune. Les habilitations avec QR code par collaborateur, la réservation de salles et les contrats d'apprentissage et de professionnalisation, CERFA, signature Yousign et prises en charge OPCO, partagent les mêmes données que le plan. L'outil est hébergé en France, certifié ISO 27001, et la mise en place est annoncée en 15 jours au plus."),
-   ("img",dict(src="in-eleo-ou-training-orchestra-2.jpg",alt="Chef de projet prenant des notes dans un carnet devant son ordinateur",cap="Un déploiement annoncé en 15 jours au plus change le calendrier d'un plan qui démarre en janvier.")),
+   ("p","Il gagne surtout sur la base commune. Les habilitations avec QR code par collaborateur, la réservation de salles et les contrats d'apprentissage et de professionnalisation, CERFA, signature Yousign et prises en charge OPCO, partagent les mêmes données que le plan. L'outil est hébergé en France et certifié ISO 27001."),
+   ("img",dict(src="in-eleo-ou-training-orchestra-2.jpg",alt="Chef de projet prenant des notes dans un carnet devant son ordinateur",cap="Un outil se choisit sur ce qu'il retire au service formation, pas sur son catalogue.")),
    ("p","Ses limites sont réelles. Pas de LMS, comme son concurrent. Pas de note d'avis vérifiable, la fiche qui porte son nom sur Capterra concerne un homonyme américain. Et un module Onboarding limité aux contrats d'alternance, qui ne gère pas l'intégration des nouveaux salariés."),
   ]),
   dict(h2="Eleo, Training Orchestra ou Foederis, comment choisir", id="choisir", body=[
