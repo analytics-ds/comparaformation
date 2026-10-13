@@ -529,3 +529,4 @@ td.note.best{color:#1E7A1E}
 
 /* logo blanc sur le podium accent (premier) */
 .pod.first img{filter:grayscale(1) brightness(0) invert(1)}
+.pod img{height:28px;max-width:140px}
