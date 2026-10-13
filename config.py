@@ -26,7 +26,7 @@ AUTHOR = "La rédaction Comparaformation"
 AUTHOR_INITIAL = "C"
 
 # Liste « Marques » du pied de page : (libellé, href). Mettre le client en premier.
-FOOTER_BRANDS = [("NOOUS", "externalisation/"), ("Eleo", "logiciels/"), ("Cegos", "externalisation/"), ("Training Orchestra", "logiciels/")]
+FOOTER_BRANDS = [("Cegos", "externalisation/"), ("Training Orchestra", "logiciels/"), ("Lucca", "logiciels/"), ("Silae", "rh-pme/")]
 
 # ------------------------------------------------------------------ textes transverses
 NEWSLETTER_P = "Un email par semaine, le classement du mois, les nouveaux comparatifs et les changements de règles sur le financement de la formation."
