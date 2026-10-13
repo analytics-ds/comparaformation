@@ -1,0 +1,620 @@
+{
+ "hero-bg.jpg": {
+  "q": "corporate training workshop",
+  "w": 2400,
+  "h": 1600,
+  "alt": "Atelier de formation en entreprise autour d'une table"
+ },
+ "cat-logiciels.jpg": {
+  "q": "hr manager laptop dashboard",
+  "w": 760,
+  "h": 720,
+  "alt": "Responsable formation devant un tableau de bord"
+ },
+ "cat-logiciels-hero.jpg": {
+  "q": "team planning laptop office",
+  "w": 2000,
+  "h": 900,
+  "alt": "Équipe RH qui planifie sur ordinateur"
+ },
+ "cat-externalisation.jpg": {
+  "q": "trainer presenting meeting room",
+  "w": 760,
+  "h": 720,
+  "alt": "Formateur devant un groupe de salariés"
+ },
+ "cat-externalisation-hero.jpg": {
+  "q": "business training seminar",
+  "w": 2000,
+  "h": 900,
+  "alt": "Séminaire de formation en entreprise"
+ },
+ "cat-alternance.jpg": {
+  "q": "young apprentice workshop",
+  "w": 760,
+  "h": 720,
+  "alt": "Jeune apprenti en atelier avec son tuteur"
+ },
+ "cat-alternance-hero.jpg": {
+  "q": "apprentice mentor factory",
+  "w": 2000,
+  "h": 900,
+  "alt": "Tuteur et alternant sur une ligne de production"
+ },
+ "cat-financement.jpg": {
+  "q": "budget meeting documents",
+  "w": 760,
+  "h": 720,
+  "alt": "Réunion budgétaire avec documents"
+ },
+ "cat-financement-hero.jpg": {
+  "q": "calculator documents desk",
+  "w": 2000,
+  "h": 900,
+  "alt": "Dossier de financement sur un bureau"
+ },
+ "cat-rh-pme.jpg": {
+  "q": "small business owner team",
+  "w": 760,
+  "h": 720,
+  "alt": "Dirigeant de PME avec son équipe"
+ },
+ "cat-rh-pme-hero.jpg": {
+  "q": "small office meeting",
+  "w": 2000,
+  "h": 900,
+  "alt": "Réunion dans une petite entreprise"
+ },
+ "sub-gestion-formation.jpg": {
+  "q": "training schedule planner",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-tms.jpg": {
+  "q": "corporate office tower",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-habilitations.jpg": {
+  "q": "safety helmet worker",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-salles.jpg": {
+  "q": "empty training room",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-sirh.jpg": {
+  "q": "hr dashboard laptop",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-lms.jpg": {
+  "q": "elearning laptop headphones",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-evaluation.jpg": {
+  "q": "feedback survey tablet",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-plan.jpg": {
+  "q": "strategy whiteboard meeting",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-achats.jpg": {
+  "q": "contract signing desk",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-organismes.jpg": {
+  "q": "classroom adults learning",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-ingenierie.jpg": {
+  "q": "sticky notes workshop",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-digital.jpg": {
+  "q": "video course recording",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-managers.jpg": {
+  "q": "manager coaching employee",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-savoirs.jpg": {
+  "q": "senior worker teaching young",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-externalisation-alternance.jpg": {
+  "q": "young intern office",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-onboarding.jpg": {
+  "q": "welcome new employee",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-aides.jpg": {
+  "q": "euro coins stack",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-apprentissage.jpg": {
+  "q": "apprentice carpenter",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-professionnalisation.jpg": {
+  "q": "young technician training",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-stages.jpg": {
+  "q": "intern computer office",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-vie.jpg": {
+  "q": "airport traveler business",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-opco.jpg": {
+  "q": "paperwork folder office",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-cpf.jpg": {
+  "q": "adult student laptop",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-competences.jpg": {
+  "q": "skills workshop team",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-qualiopi.jpg": {
+  "q": "audit checklist clipboard",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-proa.jpg": {
+  "q": "factory worker learning",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-budget.jpg": {
+  "q": "financial planning spreadsheet",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-abondement.jpg": {
+  "q": "euro banknotes wallet",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-temps-partage.jpg": {
+  "q": "consultant meeting entrepreneur",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-paie.jpg": {
+  "q": "payroll documents calculator",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-sirh-pme.jpg": {
+  "q": "small business laptop",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-recrutement.jpg": {
+  "q": "job interview handshake",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-entretiens.jpg": {
+  "q": "one on one meeting",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-droit.jpg": {
+  "q": "law books desk",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "sub-marque.jpg": {
+  "q": "happy team office",
+  "w": 200,
+  "h": 200,
+  "alt": "Illustration de la rubrique"
+ },
+ "art-1.jpg": {
+  "q": "hr manager computer",
+  "w": 1300,
+  "h": 860,
+  "alt": "Responsable formation devant son écran"
+ },
+ "in-meilleur-logiciel-formation-1.jpg": {
+  "q": "training calendar planning",
+  "w": 1200,
+  "h": 700,
+  "alt": "Planning de sessions de formation"
+ },
+ "in-meilleur-logiciel-formation-2.jpg": {
+  "q": "employees training session",
+  "w": 1200,
+  "h": 700,
+  "alt": "Salariés en session de formation"
+ },
+ "art-2.jpg": {
+  "q": "corporate headquarters lobby",
+  "w": 1300,
+  "h": 860,
+  "alt": "Siège d'un grand groupe"
+ },
+ "in-meilleur-tms-1.jpg": {
+  "q": "data dashboard screen",
+  "w": 1200,
+  "h": 700,
+  "alt": "Tableau de bord de pilotage"
+ },
+ "in-meilleur-tms-2.jpg": {
+  "q": "global team video call",
+  "w": 1200,
+  "h": 700,
+  "alt": "Équipe internationale en visioconférence"
+ },
+ "art-3.jpg": {
+  "q": "electrician safety equipment",
+  "w": 1300,
+  "h": 860,
+  "alt": "Électricien équipé pour une intervention"
+ },
+ "in-logiciel-habilitations-1.jpg": {
+  "q": "forklift warehouse worker",
+  "w": 1200,
+  "h": 700,
+  "alt": "Cariste dans un entrepôt"
+ },
+ "in-logiciel-habilitations-2.jpg": {
+  "q": "worker hard hat safety training",
+  "w": 1200,
+  "h": 700,
+  "alt": "Formation sécurité sur site industriel"
+ },
+ "art-4.jpg": {
+  "q": "two colleagues comparing laptop",
+  "w": 1300,
+  "h": 860,
+  "alt": "Deux collègues comparant deux écrans"
+ },
+ "in-eleo-ou-training-orchestra-1.jpg": {
+  "q": "hr team discussion",
+  "w": 1200,
+  "h": 700,
+  "alt": "Équipe RH en discussion"
+ },
+ "in-eleo-ou-training-orchestra-2.jpg": {
+  "q": "project manager notes",
+  "w": 1200,
+  "h": 700,
+  "alt": "Chef de projet prenant des notes"
+ },
+ "art-5.jpg": {
+  "q": "apprentice mentor office",
+  "w": 1300,
+  "h": 860,
+  "alt": "Premier jour d'une nouvelle recrue"
+ },
+ "in-logiciel-alternance-1.jpg": {
+  "q": "mentor young employee",
+  "w": 1200,
+  "h": 700,
+  "alt": "Tuteur accueillant un alternant"
+ },
+ "in-logiciel-alternance-2.jpg": {
+  "q": "welcome kit desk",
+  "w": 1200,
+  "h": 700,
+  "alt": "Kit d'accueil posé sur un bureau"
+ },
+ "art-6.jpg": {
+  "q": "training coordinator office",
+  "w": 1300,
+  "h": 860,
+  "alt": "Coordinatrice formation au bureau"
+ },
+ "in-externalisation-formation-1.jpg": {
+  "q": "business meeting documents",
+  "w": 1200,
+  "h": 700,
+  "alt": "Réunion de suivi avec documents"
+ },
+ "in-externalisation-formation-2.jpg": {
+  "q": "handshake partnership office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Poignée de main entre deux partenaires"
+ },
+ "art-7.jpg": {
+  "q": "adult training classroom",
+  "w": 1300,
+  "h": 860,
+  "alt": "Salle de formation pour adultes"
+ },
+ "in-organisme-formation-eti-1.jpg": {
+  "q": "trainer flipchart",
+  "w": 1200,
+  "h": 700,
+  "alt": "Formateur au paperboard"
+ },
+ "in-organisme-formation-eti-2.jpg": {
+  "q": "group workshop discussion",
+  "w": 1200,
+  "h": 700,
+  "alt": "Atelier en petit groupe"
+ },
+ "art-8.jpg": {
+  "q": "instructional design workshop",
+  "w": 1300,
+  "h": 860,
+  "alt": "Atelier de conception pédagogique"
+ },
+ "in-ingenierie-pedagogique-1.jpg": {
+  "q": "post it brainstorming",
+  "w": 1200,
+  "h": 700,
+  "alt": "Séance de brainstorming"
+ },
+ "in-ingenierie-pedagogique-2.jpg": {
+  "q": "video production studio",
+  "w": 1200,
+  "h": 700,
+  "alt": "Tournage d'un module de formation"
+ },
+ "art-9.jpg": {
+  "q": "consultant small business",
+  "w": 1300,
+  "h": 860,
+  "alt": "Consultante RH avec un dirigeant"
+ },
+ "in-rh-temps-partage-1.jpg": {
+  "q": "business owner thinking",
+  "w": 1200,
+  "h": 700,
+  "alt": "Dirigeant de PME réfléchissant"
+ },
+ "in-rh-temps-partage-2.jpg": {
+  "q": "hr consultant laptop",
+  "w": 1200,
+  "h": 700,
+  "alt": "Consultante RH sur son ordinateur"
+ },
+ "art-10.jpg": {
+  "q": "apprentice tutor workshop",
+  "w": 1300,
+  "h": 860,
+  "alt": "Alternant et tuteur en atelier"
+ },
+ "in-externalisation-alternance-1.jpg": {
+  "q": "young professionals office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Jeunes professionnels au bureau"
+ },
+ "in-externalisation-alternance-2.jpg": {
+  "q": "student paperwork",
+  "w": 1200,
+  "h": 700,
+  "alt": "Étudiant remplissant un dossier"
+ },
+ "art-11.jpg": {
+  "q": "hr team laptop meeting",
+  "w": 1300,
+  "h": 860,
+  "alt": "Logiciel RH sur un écran"
+ },
+ "in-meilleur-sirh-1.jpg": {
+  "q": "employees using laptops",
+  "w": 1200,
+  "h": 700,
+  "alt": "Salariés travaillant sur ordinateur"
+ },
+ "in-meilleur-sirh-2.jpg": {
+  "q": "manager tablet office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Manager consultant une tablette"
+ },
+ "art-12.jpg": {
+  "q": "payroll accountant desk",
+  "w": 1300,
+  "h": 860,
+  "alt": "Gestionnaire de paie à son bureau"
+ },
+ "in-meilleur-logiciel-paie-1.jpg": {
+  "q": "accountant calculator",
+  "w": 1200,
+  "h": 700,
+  "alt": "Comptable avec une calculatrice"
+ },
+ "in-meilleur-logiciel-paie-2.jpg": {
+  "q": "office paperwork stack",
+  "w": 1200,
+  "h": 700,
+  "alt": "Pile de documents administratifs"
+ },
+ "art-13.jpg": {
+  "q": "job interview",
+  "w": 1300,
+  "h": 860,
+  "alt": "Entretien d'embauche"
+ },
+ "in-plateforme-recrutement-1.jpg": {
+  "q": "recruiter laptop",
+  "w": 1200,
+  "h": 700,
+  "alt": "Recruteuse devant son ordinateur"
+ },
+ "in-plateforme-recrutement-2.jpg": {
+  "q": "candidate waiting room",
+  "w": 1200,
+  "h": 700,
+  "alt": "Candidats en salle d'attente"
+ },
+ "art-14.jpg": {
+  "q": "business woman documents",
+  "w": 1300,
+  "h": 860,
+  "alt": "Dirigeante consultant des documents"
+ },
+ "in-financement-opco-1.jpg": {
+  "q": "accounting meeting",
+  "w": 1200,
+  "h": 700,
+  "alt": "Réunion avec le service comptable"
+ },
+ "in-financement-opco-2.jpg": {
+  "q": "signing form pen",
+  "w": 1200,
+  "h": 700,
+  "alt": "Signature d'un formulaire"
+ },
+ "art-15.jpg": {
+  "q": "adult studying laptop home",
+  "w": 1300,
+  "h": 860,
+  "alt": "Adulte en formation sur son ordinateur"
+ },
+ "in-cpf-1.jpg": {
+  "q": "online course notes",
+  "w": 1200,
+  "h": 700,
+  "alt": "Prise de notes pendant un cours en ligne"
+ },
+ "in-cpf-2.jpg": {
+  "q": "woman studying evening",
+  "w": 1200,
+  "h": 700,
+  "alt": "Salariée qui étudie le soir"
+ },
+ "art-16.jpg": {
+  "q": "manager whiteboard team",
+  "w": 1300,
+  "h": 860,
+  "alt": "Réunion de stratégie d'équipe"
+ },
+ "in-plan-competences-1.jpg": {
+  "q": "skills matrix whiteboard",
+  "w": 1200,
+  "h": 700,
+  "alt": "Tableau des compétences"
+ },
+ "in-plan-competences-2.jpg": {
+  "q": "manager employee review",
+  "w": 1200,
+  "h": 700,
+  "alt": "Échange entre un manager et un salarié"
+ },
+ "art-17.jpg": {
+  "q": "auditor clipboard",
+  "w": 1300,
+  "h": 860,
+  "alt": "Auditrice avec un bloc-notes"
+ },
+ "in-qualiopi-1.jpg": {
+  "q": "auditor meeting office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Documents de contrôle qualité"
+ },
+ "in-qualiopi-2.jpg": {
+  "q": "adult training classroom",
+  "w": 1200,
+  "h": 700,
+  "alt": "Accueil d'un centre de formation"
+ },
+ "art-18.jpg": {
+  "q": "apprentice baker",
+  "w": 1300,
+  "h": 860,
+  "alt": "Apprenti boulanger"
+ },
+ "in-aides-alternance-1.jpg": {
+  "q": "young mechanic apprentice",
+  "w": 1200,
+  "h": 700,
+  "alt": "Jeune apprenti mécanicien"
+ },
+ "in-aides-alternance-2.jpg": {
+  "q": "calculator euro bills",
+  "w": 1200,
+  "h": 700,
+  "alt": "Calcul de budget en euros"
+ },
+ "art-19.jpg": {
+  "q": "one on one meeting office",
+  "w": 1300,
+  "h": 860,
+  "alt": "Entretien individuel au bureau"
+ },
+ "in-entretien-professionnel-1.jpg": {
+  "q": "employee feedback conversation",
+  "w": 1200,
+  "h": 700,
+  "alt": "Échange entre un salarié et son manager"
+ },
+ "in-entretien-professionnel-2.jpg": {
+  "q": "notebook meeting table",
+  "w": 1200,
+  "h": 700,
+  "alt": "Carnet posé sur une table de réunion"
+ }
+}

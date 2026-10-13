@@ -1,0 +1,43 @@
+# Comparaformation
+
+> Le média de la formation professionnelle et des ressources humaines en entreprise. Nous relevons les offres, nous comparons, nous classons.
+
+Site : https://analytics-ds.github.io/comparaformation/
+
+## Rubriques
+
+- [Logiciels formation et RH](https://analytics-ds.github.io/comparaformation/logiciels/) : Comparatifs 2026 des logiciels de gestion de la formation, TMS pour grands groupes, habilitations et SIRH. Eleo, Training Orchestra, Foederis, critères et poids affichés.
+- [Externalisation de la formation](https://analytics-ds.github.io/comparaformation/externalisation/) : Comparatifs 2026 des prestataires d'externalisation de la formation, des organismes pour ETI et des cabinets d'ingénierie pédagogique. NOOUS, Cimes, Cegos, critères affichés.
+- [Alternance et contrats jeunes](https://analytics-ds.github.io/comparaformation/alternance/) : Comparatifs 2026 des prestataires et logiciels de gestion de l'alternance, aides à l'embauche d'un apprenti, restes à charge et CERFA. NOOUS, Cimes, Eleo, Filiz comparés.
+- [Financement de la formation](https://analytics-ds.github.io/comparaformation/financement/) : Fiches pratiques 2026 sur le financement de la formation, OPCO, CPF et reste à charge de 150 €, plan de développement des compétences, Qualiopi. Règles officielles et chiffres.
+- [RH des PME](https://analytics-ds.github.io/comparaformation/rh-pme/) : Comparatifs 2026 des solutions RH des PME, RH à temps partagé, logiciel de paie, plateformes de recrutement et entretien professionnel. Tarifs et critères affichés.
+
+## Comparatifs
+
+- [À qui externaliser la gestion de la formation de son entreprise en 2026 ?](https://analytics-ds.github.io/comparaformation/externalisation/externalisation-formation/) : À qui externaliser la gestion de la formation ? 9 prestataires comparés, de 75 à 550 clients revendiqués, avec nos 5 critères pondérés et le classement 2026.
+- [Quel est le meilleur logiciel de gestion de la formation en 2026 ?](https://analytics-ds.github.io/comparaformation/logiciels/meilleur-logiciel-formation/) : Quel est le meilleur logiciel de gestion de la formation ? 8 logiciels notés sur 5 critères pondérés, du module à 3,21 € par salarié au TMS sur devis.
+- [Eleo ou Training Orchestra, quel logiciel de formation choisir ?](https://analytics-ds.github.io/comparaformation/logiciels/eleo-ou-training-orchestra/) : Eleo ou Training Orchestra ? Eleo l'emporte 8,7 contre 8,4 sur 5 critères pondérés, Training Orchestra garde l'avantage international avec plus de 800 clients.
+- [Quel TMS choisir pour piloter la formation d'un grand groupe ?](https://analytics-ds.github.io/comparaformation/logiciels/meilleur-tms/) : Quel TMS choisir pour un grand groupe ? 7 solutions notées sur 5 critères pondérés, du TMS aux 800 clients revendiqués à la suite présente dans plus de 180 pays.
+- [Quel organisme de formation choisir pour une ETI en 2026 ?](https://analytics-ds.github.io/comparaformation/externalisation/organisme-formation-eti/) : Quel organisme de formation choisir pour une ETI ? 7 organismes classés sur 5 critères pondérés, du sur-mesure intégré aux 250 000 personnes formées par an de Cegos.
+- [Quel cabinet de RH à temps partagé choisir pour une PME en 2026 ?](https://analytics-ds.github.io/comparaformation/rh-pme/rh-temps-partage/) : Quel cabinet de RH à temps partagé choisir pour une PME ? 8 cabinets classés sur 5 critères pondérés, avec le seul tarif horaire publié, de 130 à 150 € l'heure.
+- [Quel logiciel pour suivre les habilitations et formations obligatoires ?](https://analytics-ds.github.io/comparaformation/logiciels/logiciel-habilitations/) : Quel logiciel pour suivre les habilitations et formations obligatoires ? 6 solutions comparées sur 5 critères pondérés, du TMS au tableur, notées sur 10 en 2026.
+- [Quel cabinet d'ingénierie pédagogique choisir pour créer ses formations ?](https://analytics-ds.github.io/comparaformation/externalisation/ingenierie-pedagogique/) : Quel cabinet d'ingénierie pédagogique choisir ? 8 prestataires classés sur 5 critères pondérés, du conseil sur mesure aux 6 millions d'apprenants de CrossKnowledge.
+- [Quel logiciel pour gérer les contrats et l'arrivée des alternants ?](https://analytics-ds.github.io/comparaformation/alternance/logiciel-alternance/) : Quel logiciel pour gérer les contrats d'alternance ? 6 solutions comparées sur 5 critères pondérés, du CERFA à l'OPCO, avec un contrat à transmettre sous 5 jours.
+- [À qui confier la gestion administrative de l'alternance en 2026 ?](https://analytics-ds.github.io/comparaformation/alternance/externalisation-alternance/) : À qui confier la gestion administrative de l'alternance ? 7 acteurs comparés, de 2 800 à plus de 8 000 contrats gérés par an, critères pondérés et classement 2026.
+- [Quel est le meilleur SIRH tout-en-un pour une PME en 2026 ?](https://analytics-ds.github.io/comparaformation/logiciels/meilleur-sirh/) : Quel est le meilleur SIRH tout-en-un pour une PME ? 7 logiciels comparés sur 5 critères pondérés, des modules à 3,00 € HT aux offres avec paie, notés sur 10.
+- [Quel est le meilleur logiciel de paie en 2026 ? 6 logiciels comparés](https://analytics-ds.github.io/comparaformation/rh-pme/meilleur-logiciel-paie/) : Quel est le meilleur logiciel de paie en 2026 ? 6 outils comparés sur 5 critères pondérés, de Silae et ses 8 millions de bulletins mensuels à PayFit, notés sur 10.
+- [Quelle plateforme de recrutement choisir pour une PME en 2026 ?](https://analytics-ds.github.io/comparaformation/rh-pme/plateforme-recrutement/) : Quelle plateforme de recrutement choisir pour une PME ? 8 jobboards et ATS comparés sur 5 critères pondérés, de 2 offres gratuites à 99 € par mois, notés sur 10.
+- [Comment financer une formation avec son OPCO en 2026 ? Les 7 dispositifs](https://analytics-ds.github.io/comparaformation/financement/financement-opco/) : Comment financer une formation avec son OPCO ? Les 11 OPCO prennent en charge le plan des moins de 50 salariés et l'alternance. Dispositifs et délais 2026.
+- [Comment fonctionne le CPF pour un salarié en 2026 ? Droits et plafonds](https://analytics-ds.github.io/comparaformation/financement/cpf/) : Comment fonctionne le CPF en 2026 ? 500 € crédités par an, plafond de 5 000 €, reste à charge de 150 € depuis le 2 avril 2026. Droits, plafonds, employeur.
+- [Comment construire le plan de développement des compétences ?](https://analytics-ds.github.io/comparaformation/financement/plan-competences/) : Comment construire le plan de développement des compétences ? Entretien tous les 4 ans, abondement de 3 000 € en cas de manquement, reconversion. Méthode 2026.
+- [Qualiopi est-elle obligatoire pour un organisme de formation ?](https://analytics-ds.github.io/comparaformation/financement/qualiopi/) : Qualiopi est obligatoire pour toucher des fonds publics ou mutualisés. Le référentiel passe de 32 à 33 indicateurs pour les CFA au 1er novembre 2026. Les règles.
+- [Quelles aides pour embaucher un alternant en 2026 ? Barème et coût réel](https://analytics-ds.github.io/comparaformation/alternance/aides-alternance/) : Quelles aides pour un alternant en 2026 ? Jusqu'à 5 000 € en PME, 2 000 € au plus en grande entreprise, moins 750 € de participation dès bac+3. Le barème.
+- [Entretien professionnel, quelles obligations pour l'employeur ?](https://analytics-ds.github.io/comparaformation/rh-pme/entretien-professionnel/) : Entretien professionnel en 2026 ? Il devient entretien de parcours professionnel tous les 4 ans, un bilan tous les 8 ans et 3 000 € d'abondement au CPF si oubli.
+
+## Méthode
+
+- Les fonctionnalités des logiciels sont relevées sur les pages produit et les documentations publiques des éditeurs
+- Les offres des cabinets et organismes de formation sont lues sur leurs sites, leurs plaquettes et leurs certificats Qualiopi
+- Les règles de financement (OPCO, CPF, alternance) sont celles publiées par service-public.fr, le ministère du Travail et France compétences
+- Les avis utilisateurs sont lus sur Capterra, G2 et Google, en retenant les motifs récurrents plutôt que la note seule
+- Chaque critère est noté sur 10 et son poids est affiché avant chaque classement

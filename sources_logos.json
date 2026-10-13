@@ -1,0 +1,182 @@
+{
+ "noous": {
+  "source": "site",
+  "url": "https://www.noous.co/wp-content/uploads/2020/02/LOGO-SLIDES-400px.png",
+  "credit": "https://noous.co/",
+  "file": "noous.png"
+ },
+ "eleo": {
+  "source": "manuel",
+  "url": "https://www.eleo.io/wp-content/uploads/2021/02/Logo_Eleo_blanc-02.png (texte détouré)"
+ },
+ "training-orchestra": {
+  "source": "site",
+  "url": "https://trainingorchestra.com/wp-content/uploads/2025/12/TrainingOrchestra_HeaderLogo.webp",
+  "credit": "https://trainingorchestra.com/",
+  "file": "training-orchestra.webp"
+ },
+ "foederis": {
+  "source": "manuel",
+  "url": "https://www.foederis.fr/wp-content/uploads/2023/07/logo-fr.png"
+ },
+ "cegid": {
+  "source": "wikidata",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Cegid_logo_20182.png/960px-Cegid_logo_20182.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File:Cegid_logo_20182.png",
+  "file": "cegid.png"
+ },
+ "lucca": {
+  "source": "site",
+  "url": "https://lucca.fr/assets/img/logo-lucca.svg",
+  "credit": "https://lucca.fr/",
+  "file": "lucca.svg"
+ },
+ "eurecia": {
+  "source": "site",
+  "url": "https://eurecia.com/themes/supercolor_corpo/dist/images/eurecia_logo_horizontal.svg",
+  "credit": "https://eurecia.com/",
+  "file": "eurecia.svg"
+ },
+ "docebo": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Docebo_logo_2010.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Docebo_logo_2010.svg",
+  "file": "docebo.svg"
+ },
+ "cornerstone": {
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cornerstone_OnDemand_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Cornerstone_OnDemand_Logo.svg",
+  "file": "cornerstone.svg"
+ },
+ "bluekango": {
+  "source": "manuel",
+  "url": "https://www.bluekango.com/ (svg inline du header, disque retiré)"
+ },
+ "filiz": {
+  "source": "site",
+  "url": "https://cdn.prod.website-files.com/659bb7c323e48b0f2324ea08/659bbbf0dfa99d9ceea04d52_logo-filiz.svg",
+  "credit": "https://filiz.io/",
+  "file": "filiz.svg"
+ },
+ "develop-invest": {
+  "source": "site",
+  "url": "https://www.developinvest.com/wp-content/uploads/2021/08/Logo-blanc-DI.png",
+  "credit": "https://developinvest.com/",
+  "file": "develop-invest.png"
+ },
+ "rhexis": {
+  "source": "site",
+  "url": "https://apaveprod-cd1-bbh7c5ezeaaugfae.z01.azurefd.net/-/media/Project/GroupeApave/Rhexis/Logo-Rhexis-Navigation2.png?h=36&amp;iar=0&amp;w=104&amp;rev=7fd1ee1fca4b46a893c397e5885b755a&amp;hash=1BD013E10878F2D16650B19B41E4FD88",
+  "credit": "https://rhexis.fr/",
+  "file": "rhexis.png"
+ },
+ "ad-consultem": {
+  "source": "site",
+  "url": "https://www.adconsultem.fr/wp-content/uploads/2024/04/logo-adconsultem.svg",
+  "credit": "https://adconsultem.fr/",
+  "file": "ad-consultem.svg"
+ },
+ "lefebvre-dalloz": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo-Lefebvre-Dalloz-Competences.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "https://commons.wikimedia.org/wiki/File:Logo-Lefebvre-Dalloz-Competences.png",
+  "file": "lefebvre-dalloz.png"
+ },
+ "orsys": {
+  "source": "manuel",
+  "url": "https://orsys.fr/ORSYS_files/68ad6297550fb653e920f033_LOGO%20ORSYS.png",
+  "file": "orsys.png"
+ },
+ "julhiet-sterwen": {
+  "source": "site",
+  "url": "https://julhiet-sterwen.com/wp-content/uploads/2023/04/logo.png",
+  "credit": "https://julhiet-sterwen.com/",
+  "file": "julhiet-sterwen.png"
+ },
+ "crossknowledge": {
+  "source": "manuel",
+  "url": "https://www.crossknowledge.com/wp-content/themes/crossknowledge/dist/sprite.svg#icon-logo-ck"
+ },
+ "sydo": {
+  "source": "site",
+  "url": "https://sydo.fr/wp-content/uploads/2023/11/logo-sydo.svg",
+  "credit": "https://sydo.fr/",
+  "file": "sydo.svg"
+ },
+ "reference-drh": {
+  "source": "manuel",
+  "url": "https://www.referencedrh.com/ (svg inline du header)"
+ },
+ "hr4team": {
+  "source": "site",
+  "url": "https://cdn.prod.website-files.com/5faeb0f4d2b81ba98f24f788/695cef427fa66115e35603a9_HR4Team_Logo.png",
+  "credit": "https://hr4team.com/",
+  "file": "hr4team.png"
+ },
+ "boostrh": {
+  "source": "site",
+  "url": "https://www.boostrh.com/wp-content/uploads/2026/03/logo-boostrh.png",
+  "credit": "https://boostrh.com/",
+  "file": "boostrh.png"
+ },
+ "factorial": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Factorial_company_logo_in_radical_red_color_with_text_saying_Factorial_in_Fira_font_type.png/960px-Factorial_company_logo_in_radical_red_color_with_text_saying_Factorial_in_Fira_font_type.png?utm_source=commons.wikimedia.org&utm_campaign=image",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AFactorial_company_logo_in_radical_red_color_with_text_saying_Factorial_in_Fira_font_type.png",
+  "file": "factorial.png"
+ },
+ "payfit": {
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Payfit_logo.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "https://commons.wikimedia.org/wiki/File:Payfit_logo.png",
+  "file": "payfit.png"
+ },
+ "silae": {
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/fr/1/15/Logo_Silae.svg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://fr.wikipedia.org/wiki/Fichier:Logo_Silae.svg",
+  "file": "silae.svg"
+ },
+ "sage": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sage-logo-2018.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Sage-logo-2018.svg",
+  "file": "sage.svg"
+ },
+ "taleez": {
+  "source": "site",
+  "url": "https://cdn.prod.website-files.com/698996ab82a80a177f1d2bc6/69a1b559be846ff955ab9418_6a6e5862a7ed8944b400d11b5eb46139_taleez.svg",
+  "credit": "https://taleez.com/",
+  "file": "taleez.svg"
+ },
+ "teamtailor": {
+  "source": "manuel",
+  "url": "https://www.teamtailor.com/logos/teamtailor-logotype.svg",
+  "file": "teamtailor.svg"
+ },
+ "cegos": {
+  "source": "manuel",
+  "url": "https://www.cegos.fr/assets/media/img/logo/100_logo_cegos-d9a7dd23.webp",
+  "file": "cegos.webp"
+ },
+ "bras-droit": {
+  "source": "manuel",
+  "url": "https://www.brasdroitdesdirigeants.com/wp-content/uploads/2022/06/logo.svg",
+  "file": "bras-droit.svg"
+ },
+ "cimes": {
+  "source": "manuel",
+  "url": "https://www.groupecimes.com/assets/media/img/logo-cimes-d7498a8f.png",
+  "file": "cimes.png"
+ },
+ "externalis": {
+  "source": "manuel",
+  "url": "https://www.externalis-formation.fr/wp-content/uploads/2026/05/Logo-externalis-ap-bleu.png",
+  "file": "externalis.png"
+ },
+ "wttj": {
+  "source": "manuel",
+  "url": "https://www.welcometothejungle.com/fr (svg inline du header)"
+ }
+}
